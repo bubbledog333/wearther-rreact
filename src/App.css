@@ -1,0 +1,79 @@
+.Class{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(211, 208, 208);
+  border-color: gray;
+ 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Api{
+  display: block;
+  margin:  0 auto;
+  text-align: center;
+}
+.days
+{
+  text-align: center;
+  list-style: none;
+
+   
+}
+li{
+  margin-left: 10px;
+  padding-left:30px ;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+button{
+  color: white
+  ;background-color: rgb(56, 56, 223);
+  border-radius: 6px;
+  width: 80px;
+  height: 35px;
+  border-color: rgb(56, 56, 223);
+  
+}input{
+  width: 160px;
+  height: 25px;
+}h1{
+  color: rgb(170, 169, 169);
+}
+p{
+  color: rgb(170, 169, 169); padding-top: 0px;
+  padding-left: 10px;
+  
+} 
