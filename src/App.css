@@ -78,5 +78,9 @@ p{
   
 } 
 a{
-  color:rgb(72, 72, 185)
+  color:rgb(72, 72, 185);
+  text-align: center
+  ;
+  margin: 0 auto;
+  display: block;
 }
